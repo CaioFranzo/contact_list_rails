@@ -6,4 +6,12 @@ class StaticPagesController < ApplicationController
 
   end
 
+  def sobre
+
+  end
+
+  def contato
+
+  end
+
 end
